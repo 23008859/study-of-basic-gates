@@ -85,32 +85,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 ![319458613-e333ab21-f7bf-4aa0-8a6b-f69c57451122](https://github.com/23008859/study-of-basic-gates/assets/139117979/74530593-4b2d-425b-9496-b84cc7888656)
-![319458650-7c6f142b-46a3-4e36-a4c7-76008d1b9832](https://github.com/23008859/study-of-basic-gates/assets/139117979/3889afff-15cd-4a0a-839b-c3f462606bce)
-![319459057-19d8cb59-7eab-4f7b-a45d-296947b83146](https://github.com/23008859/study-of-basic-gates/assets/139117979/47b749fe-ff6a-4695-b89e-dd8de3b5ca7f)
-![319458770-a0137613-8911-48f3-b17b-8f2829320975](https://github.com/23008859/study-of-basic-gates/assets/139117979/aa6c4eaa-7411-4287-b43c-63ab8e966c03)
-![319458802-eb93295d-0d69-4b8f-bedd-99ec4f99c4aa](https://github.com/23008859/study-of-basic-gates/assets/139117979/243d43ae-53f7-4c21-8eb8-4d443f4a121c)
-![321156830-d286b753-55ac-4244-a3bd-9b43f11fab22](https://github.com/23008859/study-of-basic-gates/assets/139117979/144a73e0-941a-4607-a0e8-ef8030462865)
-![321156597-395f90c6-e3da-451d-baa9-93e89af26ad9](https://github.com/23008859/study-of-basic-gates/assets/139117979/7658262b-9469-4a78-bf60-d0f68bd100eb)
+![314435835-e6d8cd84-a6f9-494a-8dbe-14f5232a24b1](https://github.com/23008859/study-of-basic-gates/assets/139117979/ffa9830d-db26-4a81-9208-ced63cb76819)
+![314435924-ff9b3046-63ed-449d-bba6-e1a0cff0279b](https://github.com/23008859/study-of-basic-gates/assets/139117979/bf9570e0-6d1c-4c49-9ced-a1cf930245f9)
 
 
 **RTL realization Output:** 
-![314435924-ff9b3046-63ed-449d-bba6-e1a0cff0279b](https://github.com/23008859/study-of-basic-gates/assets/139117979/450b0109-3e47-440a-a1dc-ee2efd94d551)
-![319249934-e4c2528d-b615-49a1-8c0d-eae421b8adcc](https://github.com/23008859/study-of-basic-gates/assets/139117979/1c31c5c3-315d-4dfb-9382-58e0f74eda96)
-![319255215-91e6f5d3-07b5-4f9e-8304-e633aa560a0a](https://github.com/23008859/study-of-basic-gates/assets/139117979/445c510f-c63a-4f66-b850-316e689e8deb)
-![319257953-cd6af132-c459-4b8d-ae94-7acece134f68](https://github.com/23008859/study-of-basic-gates/assets/139117979/5fdf2a2d-bc3a-42c9-860d-2c7e1b6ce757)
-![319259741-cdfb5e64-a652-4bf0-89d8-1d07528a4a42](https://github.com/23008859/study-of-basic-gates/assets/139117979/554032e9-8d7d-41ae-b718-b0fd5ee0e56d)
-![319262447-d473eed3-f79f-48cf-a817-df2ec6c0eec2](https://github.com/23008859/study-of-basic-gates/assets/139117979/b31f7fec-9f5d-482d-ac22-97f3560e5b2f)
-![319266755-0a08d115-8fe8-4943-b322-66f16da0ec08](https://github.com/23008859/study-of-basic-gates/assets/139117979/b0b4587b-1b0f-4177-b524-1208fde586a5)
+
 
 
 **RTL**
-![314435924-ff9b3046-63ed-449d-bba6-e1a0cff0279b](https://github.com/23008859/study-of-basic-gates/assets/139117979/dce08cae-dd75-49b4-a3d6-a7c32390d580)
-![319249934-e4c2528d-b615-49a1-8c0d-eae421b8adcc](https://github.com/23008859/study-of-basic-gates/assets/139117979/e6913000-7744-45dd-a14f-b470ed8c7c95)
-![319255215-91e6f5d3-07b5-4f9e-8304-e633aa560a0a](https://github.com/23008859/study-of-basic-gates/assets/139117979/4e559baa-075e-4d36-96ab-22c6b0f36949)
-![319257953-cd6af132-c459-4b8d-ae94-7acece134f68](https://github.com/23008859/study-of-basic-gates/assets/139117979/b6a8c799-9f2a-4d5d-9332-751c2d09be09)
-![319259741-cdfb5e64-a652-4bf0-89d8-1d07528a4a42](https://github.com/23008859/study-of-basic-gates/assets/139117979/35447620-c669-4758-97f9-bd03add09969)
-![319262492-dbf2c102-470c-4de1-93f4-68449fe7390e](https://github.com/23008859/study-of-basic-gates/assets/139117979/c7384c38-2adb-4037-9e31-8183768fc0d2)
-![319457505-b87a09f9-a913-4428-bcb4-8a1d92176656](https://github.com/23008859/study-of-basic-gates/assets/139117979/262c2102-ebe2-4c87-9304-81a1b6180988)
 
 
 **Result:**
